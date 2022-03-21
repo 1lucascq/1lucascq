@@ -5,7 +5,7 @@ I like technology and I'm always willing to learn more about it.
 
 I'm currently learning studying more about Back-End and I'm available to work!
 
-Feel free to check it out my repositories and ask something if you have any questions.
+Feel free to check it out my repositories and ask something if you have any questions =D.
 
 [![1lucascq's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lucascq&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
