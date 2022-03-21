@@ -7,7 +7,7 @@ I'm currently learning studying more about Back-End and I'm available to work!
 
 Feel free to check it out my repositories and ask something if you have any questions.
 
-[![1lucascq's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lucascq)](https://github.com/anuraghazra/github-readme-stats)
+[![1lucascq's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lucascq&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Skills: HTML / CSS / JS / TS / REACT / NODE / SQL
 
