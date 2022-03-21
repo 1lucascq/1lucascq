@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Lucas
-##### I am Full-Stack Developer.
+#### I am Full-Stack Developer.
 
 I like technology and I'm always willing to learn more about it.
 
