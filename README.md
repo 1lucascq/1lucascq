@@ -12,7 +12,9 @@ Ohh, almost forgot... I'm available to work!
 
 [![1lucascq's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lucascq&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Skills: HTML / CSS / JS / TS / REACT / NODE / SQL
+Skills: HTML / CSS / JS / TS / REACT / SQL / NODE 
+Learning: POO --> SOLID --> MongoDB --> VPS --> CI/CD --> Python
+
 
 ###### Fun fact: I don't have a Instagram/Facebook profile, so I do playlists as procrastination. I'm not proud of it but I only regret when the playlist turns out to be awful.
 <!--
