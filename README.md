@@ -13,6 +13,8 @@ Learning: POO --> SOLID --> MongoDB --> VPS --> CI/CD --> Python
 
 Skills: HTML / CSS / JS / TS / REACT / SQL / NODE
 
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html logo" />
 
 [![1lucascq's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lucascq&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
