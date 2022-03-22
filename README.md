@@ -1,20 +1,29 @@
 ### Hi there 👋, my name is Lucas Costa.
 #### I am Full-Stack Developer.
-
+<br>
 I like technology and I'm always willing to learn more about it.
 
 I'm currently learning more about Back-End and styling old projects to deploy some cool apps.
 
 Feel free to check it out my repositories and ask something if you have any questions.
 
+<br>
+
 Ohh, almost forgot... I'm available to work!
 
+<br><br>
 
-[![1lucascq's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lucascq&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=1lucascq&show_icons=true&theme=dark" />
+  </a>
+</div>
 
-<center>   <h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
+<br><br>
 
-<table>
+<h2 align="center"> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2>
+
+<table align="center">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
@@ -74,6 +83,9 @@ Ohh, almost forgot... I'm available to work!
 </table>
 </p>
 
+<br><br>
+
+<div align="center">
 <h4>Others:</h4>
 
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -82,16 +94,19 @@ Ohh, almost forgot... I'm available to work!
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-<h5>Willing to learn in the future:</h5>
+<br><br>
+  
+ <h5>Willing to learn in the future:</h5>
 
 ![Postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+</div>
 
+<br><br><br>
 
-###### Fun fact: I don't have a Instagram/Facebook profile, so I do playlists as procrastination. I'm not proud of it but I only regret when the playlist turns out to be awful.
+###### Fun fact: I don't have a Instagram/Facebook profile, so I make playlists to procrastinate.
 <!--
 
 ###### Fun fact: I don't have a Instagram/Facebook profile, so I do playlists as procrastination. I'm not proud of it but I only regret when the playlist sucks.
