@@ -67,8 +67,8 @@ Ohh, almost forgot... I'm available to work!
         <img height="45px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
       <td width="25%" align="center">
-        <span>Docker</span><br><br><br>
-        <img height="45px" src="https://cdn.svgporn.com/logos/docker.svg">
+        <span>Express</span><br><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
       <td width="25%" align="center">
         <span>NodeJs</span><br><br><br>
@@ -88,7 +88,7 @@ Ohh, almost forgot... I'm available to work!
 <div align="center">
 <h4>Others:</h4>
 
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Sinon](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
