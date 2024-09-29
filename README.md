@@ -1,15 +1,8 @@
 ### Hi there 👋, my name is Lucas Costa.
-#### I am Full-Stack Developer.
-<br>
-I like technology and I'm always willing to learn more about it.
-
-I'm currently learning more about Back-End and styling old projects to deploy some cool apps.
-
+<be>
+I am a Full-Stack Software Engineer with 4+ years of experience in web development.
 Feel free to check it out my repositories and ask something if you have any questions.
-
 <br>
-
-Ohh, almost forgot... I'm available to work!
 
 <br><br>
 
@@ -106,10 +99,3 @@ Ohh, almost forgot... I'm available to work!
 </div>
 
 <br><br><br>
-
-###### Fun fact: I don't have a Instagram/Facebook profile, so I make playlists to procrastinate.
-<!--
-
-###### Fun fact: I don't have a Instagram/Facebook profile, so I do playlists as procrastination. I'm not proud of it but I only regret when the playlist sucks.
-Fun fact: I do playlists as procrastination and I'm pretty sure that I probably have one that suits you.
--->
